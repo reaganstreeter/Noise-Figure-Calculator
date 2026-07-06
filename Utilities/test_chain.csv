@@ -1,0 +1,6 @@
+name,gain_db,nf_db
+LNA,15.0,1.2
+BPF,-2.0,2.0
+Mixer,-7.0,7.0
+IF Amp,20.0,3.0
+IF Filter,-1.5,1.5

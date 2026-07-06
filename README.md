@@ -14,9 +14,10 @@ Scripts/
 
 Utilities/
 - friis.py - Core Friis calculation module (importable)
+- test_chain.csv - Used to test the CSV data entry input method
 
 Outputs/
-- nf_cascade_example.png - Example output plot
+- nf_cascade_example.png - Example output plot produced from the data contained in test_chain.csv
 
 ## Using the Script
 
@@ -99,3 +100,13 @@ pip install numpy matplotlib pandas
 ```
 
 Tested on Python 3.11
+
+## AI Collaboration
+
+This project was developed with assistance from Claude Sonnet 4.6 (Anthropic) as an AI collaborator. AI assistance was used for the following categories of work:
+
+- Code implementation of specific syntax and functions based on architecture I defined
+
+All design decisions, project architecture, and technical direction are my own.
+All code has been reviewed, tested, and is understood by me. This project is
+governed by my AI Collaboration Policy which can be found on my GitHub profile.
